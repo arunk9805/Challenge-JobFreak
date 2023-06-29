@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Challenge-JobFreak/static/css/main.d965d705.css",
+    "main.js": "/Challenge-JobFreak/static/js/main.ac26a65c.js",
+    "static/media/work.png": "/Challenge-JobFreak/static/media/work.f4e0d92b96b5b6812b1a.png",
+    "static/media/Hero.png": "/Challenge-JobFreak/static/media/Hero.22281120ec837800d560.png",
+    "static/media/contact.png": "/Challenge-JobFreak/static/media/contact.0014e5127e782fe69cba.png",
+    "index.html": "/Challenge-JobFreak/index.html",
+    "main.d965d705.css.map": "/Challenge-JobFreak/static/css/main.d965d705.css.map",
+    "main.ac26a65c.js.map": "/Challenge-JobFreak/static/js/main.ac26a65c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d965d705.css",
+    "static/js/main.ac26a65c.js"
+  ]
+}
